@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392069474090",
+    "project_id": "signin-ae061",
+    "storage_bucket": "signin-ae061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392069474090:android:c0d96c559c63272665a053",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392069474090-db8famm8f7ofss9si1ofru7msto67vqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWiDL3_pYEykK1rT14Q2TZV-YGQJqeYa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392069474090-db8famm8f7ofss9si1ofru7msto67vqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
